@@ -5,7 +5,7 @@ import singleBlueberry from '../assets/singleBlueberry.png';
 
 const Home = () => {
   return (
-    <section className="home bg-gray-200 flex h-screen w-screen items-center justify-center">
+    <section className="home bg-gray-200">
       <div className="container p-2 h-full">
         <div className="heroSection flex flex-col items-center justify-center pt-20 lg:flex-row lg:h-3/4  md:p-10 lg:gap-x-5">
           <div className="heroLogo lg:w-2/5 lg:rounded-lg  w-4/5 rounded-t-lg bg-white drop-shadow-xl flex items-center justify-center">
